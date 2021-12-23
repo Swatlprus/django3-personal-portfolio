@@ -1,0 +1,9 @@
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+/static/
+.idea
+/personal_portfolio/settings_prod.py
+db.sqlite3
